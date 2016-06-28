@@ -1,8 +1,4 @@
-.classpath
-.project
-*.class
-*.jar
-/bin
-/build
-/out
+/bin/
+/build/
+/out/
 
