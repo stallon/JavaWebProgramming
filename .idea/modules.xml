@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DbModel/DbModel.iml" filepath="$PROJECT_DIR$/DbModel/DbModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson01/Lesson01.iml" filepath="$PROJECT_DIR$/Lesson01/Lesson01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson01web/Lesson01web.iml" filepath="$PROJECT_DIR$/Lesson01web/Lesson01web.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson02/Lesson02.iml" filepath="$PROJECT_DIR$/Lesson02/Lesson02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson03/Lesson03.iml" filepath="$PROJECT_DIR$/Lesson03/Lesson03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson04/Lesson04.iml" filepath="$PROJECT_DIR$/Lesson04/Lesson04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson04/step01/Lesson04.iml" filepath="$PROJECT_DIR$/Lesson04/step01/Lesson04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson05/Lesson05.iml" filepath="$PROJECT_DIR$/Lesson05/Lesson05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson06/Lesson06.iml" filepath="$PROJECT_DIR$/Lesson06/Lesson06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson07/Lesson07.iml" filepath="$PROJECT_DIR$/Lesson07/Lesson07.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson08/Lesson08.iml" filepath="$PROJECT_DIR$/Lesson08/Lesson08.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson09/Lesson09.iml" filepath="$PROJECT_DIR$/Lesson09/Lesson09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson08/step00/src/main/Lesson08.iml" filepath="$PROJECT_DIR$/Lesson08/step00/src/main/Lesson08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson09/step07/src/main/Lesson09.iml" filepath="$PROJECT_DIR$/Lesson09/step07/src/main/Lesson09.iml" />
     </modules>
   </component>
 </project>
